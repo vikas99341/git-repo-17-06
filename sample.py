@@ -1,7 +1,8 @@
 a=3
 b=8
 c=6
-d=34
+d=68
+
 sum=a+b+c+d
 
 print "sum of four numbers is" sum
